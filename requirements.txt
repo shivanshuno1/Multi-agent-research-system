@@ -1,0 +1,23 @@
+# Core LangChain (LCEL / Runnables + ReAct agents)
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+# Google Gemini SDK
+google-generativeai
+
+# Tavily search tool
+tavily-python
+langchain-tavily
+
+# Web scraping tool
+beautifulsoup4
+requests
+lxml
+
+# Env variable management (API keys)
+python-dotenv
+
+# Optional but commonly needed for agent tooling / parsing
+pydantic
